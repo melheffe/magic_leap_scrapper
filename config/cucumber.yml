@@ -1,0 +1,3 @@
+Main: >-
+  --tags @magicleap_performance --format html --browser Chrome --overwrite true
+  --captureVideo false
